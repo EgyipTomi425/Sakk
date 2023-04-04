@@ -19,5 +19,21 @@
 *.tar.gz
 *.rar
 
+# BlueJ files
+*.ctxt
+
+# IntelliJ IDEA files
+*.iml
+*.iws
+*.ipr
+.idea/
+out/
+
+# NetBeans files
+nbproject/
+nbbuild/
+dist/
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Sakk/target/
